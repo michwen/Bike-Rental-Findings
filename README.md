@@ -1,6 +1,8 @@
 # Udacity Data Analyst Nanodegree
 This folder showcase my work through the project of communicate data findings
 
+ALL RIGHT RESERVED
+
 ### Project 4: Communicate Data Findings
 
 ## The data is recommended by Udacity as the first option data set. 
